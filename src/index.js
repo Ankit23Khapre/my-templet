@@ -8,7 +8,7 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 import './vendor/css/style.css';
 import './vendor/css/footer.css';
 
-import App from "./App";
+import App from './App';
 
 
 ReactDOM.render(< App/>,document.getElementById('root'));
